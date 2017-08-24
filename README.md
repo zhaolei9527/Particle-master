@@ -11,7 +11,7 @@
  ****
 # How to use：
 
-[![](https://jitpack.io/v/zhaolei9527/UseBottomTabBar.svg)](https://jitpack.io/#zhaolei9527/UseBottomTabBar)
+[![](https://jitpack.io/v/zhaolei9527/Particle-master.svg)](https://jitpack.io/#zhaolei9527/Particle-master)
 [![](https://img.shields.io/badge/Go%20to-%E7%AE%80%E4%B9%A6-brightgreen.svg)](http://www.jianshu.com/p/39a27bba44da)
 
 **Step 1. Add the JitPack repository to your build file**
